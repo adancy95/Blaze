@@ -1,2 +1,2 @@
 # Blaze
-An application for leaderboards, score keeping, player ranking
+An application for leaderboards, score keeping, and  player ranking
